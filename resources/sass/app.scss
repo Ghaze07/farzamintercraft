@@ -1,9 +1,13 @@
-//
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
 
-$font-path: "../webfonts/";
+// Variables
+@import 'variables';
 
-@import 'bootstrap.css';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
 @import 'fontawesome-all.css';
 @import 'magnific-popup.css';
 @import 'swiper.css';
-@import 'styles.scss';
+@import 'styles.css';

@@ -16,7 +16,7 @@
             <div class="col-lg-6">
                 <div class="map-responsive">
                     {{-- Map Link here --}}
-                    <iframe src={{-- "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100939.98555098464!2d-122.507640204439!3d37.757814996609724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80859a6d00690021%3A0x4a501367f076adff!2sSan+Francisco%2C+CA%2C+USA!5e0!3m2!1sen!2sro!4v1498231462606" --}} allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3624.3658335462483!2d46.67178171509668!3d24.71431778412307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f02d2621b42dd%3A0xeeb84fa26c695b09!2sOLAYA%20MALL!5e0!3m2!1sen!2s!4v1599640427643!5m2!1sen!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </div>
             </div> <!-- end of col -->
             <div class="col-lg-6">
