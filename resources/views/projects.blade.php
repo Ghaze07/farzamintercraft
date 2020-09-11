@@ -7,7 +7,7 @@
                 <div class="text-container">
                     <h2>Intercraft Solution's Existing Product in Market</h2>
                     <p>Present activities that Intercraft is catering to it’s clients, that eases administrative workload and at the same time advances the e-learning experience:</p>
-                    <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-1">Details</a>
+                    <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-1">Our Solutions</a>
                 </div> <!-- end of text-container -->
             </div> <!-- end of col -->
             <div class="col-lg-6">
@@ -21,8 +21,6 @@
 <!-- end of details 1 -->
 
 
-
-
 <!-- Details Lightboxes -->
 <!-- Details Lightbox 1 -->
 <div id="details-lightbox-1" class="lightbox-basic zoom-anim-dialog mfp-hide">
@@ -31,42 +29,50 @@
             <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
             <div class="col-lg-8">
                 <div class="image-container">
-                    <img class="img-fluid" src="images/school.png" alt="alternative">
+                    <img class="img-fluid" src="images/logi.png" alt="alternative">
                 </div> <!-- end of image-container -->
             </div> <!-- end of col -->
             <div class="col-lg-4">
                 <h3>InterCraft Solutions</h3>
                 <hr>
                 {{-- <h5>Core feature</h5> --}}
-                <p>On an upgraded Moodle version Intercraft can help your organization’s users/faculty members to easily access the past uploaded activities and course material.</p>
-                <p>Intercraft can customise your LMS Theme as per your requirement.</p>
-                <p>Intercraft can link your organization’s Moodle portal with a custom edition of Moodle Mobile App, for user-friendly experience.</p>
-                <p>Moodle can be integrated with student information system or any other information management system to automatically process the critical data without involving any administrative efforts. This includes course creation, enrolment of students, fee invoices and instalment plans.</p>
+                <p>
+                    Present activities which InterCraft (Private) Ltd. is serving its clients is easing and managing administrative workload and at the same time advances the e-learning experience.
+                </p>
+                <p>
+                    On an upgraded Moodle version InterCraft can help your organization’s users/faculty members to easily access the past uploaded activities and course material
+                </p>
+                <p>
+                    InterCraft can customise you LMS Theme as per your requirement.
+                </p>
+                <p>
+                    InterCraft  can link your organization’s Moodle portal with a custom edition of Moodle Mobile App, for user-friendly experience.
+                </p>
+
+                <p>
+                    Moodle can integrate student information system or any other information management system to automatically process the critical data without involving any administrative efforts. This includes course creation, enrolment of students, fee invoices and instalment plans.
+                </p>    
                
                  <a class="btn-outline-reg mfp-close as-button" href="#screenshots">BACK</a>
             </div> <!-- end of col -->
         </div> <!-- end of row -->
     </div> <!-- end of container -->
 </div> <!-- end of lightbox-basic -->
-<!-- end of details lightbox 1 -->
-
+   
+        {{-- //below section-------------// --}}
 
 <div class="cards-2">
     <div class="container">
-        <div class="row">
-            
+        <div class="row">           
         </div> <!-- end of row -->
         <div class="row">
             <div class="col-lg-12">
-
                 <!-- Card-->
                 <div class="card">
                     <div class="card-body">
                         <img class="card-image" src="images/alfaisal.png" alt="alternative">
                         <div class="card-title">Alfaisal University</div>
-                        <div class="card-subtitle"> Riyadh, KSA</div>
-                        
-                        
+                        <div class="card-subtitle"> Riyadh, KSA</div>                                             
                         <div class="button-wrapper">
                             <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-6">Explore</a>
                         </div>
@@ -79,9 +85,7 @@
                     <div class="card-body">
                         <img class="card-image" src="images/kingfaisal.PNG" alt="alternative">
                         <div class="card-title">KFSH&RC</div>
-                        <div class="card-subtitle"> Riyadh, KSA</div>
-                        
-                        
+                        <div class="card-subtitle"> Riyadh, KSA</div>                       
                         <div class="button-wrapper">
                             <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-7">Explore</a>
                         </div>
@@ -94,9 +98,7 @@
                     <div class="card-body">
                         <img class="card-image" src="images/hwc.png" alt="alternative">
                         <div class="card-title">Homework Centre</div>
-                        <div class="card-subtitle">KSA</div>
-                        
-                        
+                        <div class="card-subtitle">KSA</div>                      
                         <div class="button-wrapper">
                             <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-4">Explore</a>
                         </div>
@@ -109,9 +111,7 @@
                     <div class="card-body">
                         <img class="card-image" src="images/injaz.png" alt="alternative">
                         <div class="card-title">Injaz Schools</div>
-                        <div class="card-subtitle">Makkah, KSA</div>
-                        
-                        
+                        <div class="card-subtitle">Makkah, KSA</div>                      
                         <div class="button-wrapper">
                             <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-5">Explore</a>
                         </div>
@@ -122,19 +122,28 @@
                 <!-- Card-->
                 <div class="card">
                     <div class="card-body">
+                        <img class="card-image" src="images/drsulman.png" alt="alternative">
+                        <div class="card-title">Dr. Suleiman Al Habib</div>
+                        <div class="card-subtitle">Integrated LMS-System</div>                        
+                        <div class="button-wrapper">
+                            <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-8">Explore</a>
+                        </div>
+                    </div>
+                </div> <!-- end of card -->
+                <!-- end of card -->
+
+                <!-- Card-->
+                <div class="card">
+                    <div class="card-body">
                         <img class="card-image" src="images/alfaisal.png" alt="alternative">
                         <div class="card-title">GISBA</div>
-                        <div class="card-subtitle">(Global Reach in Consulting & Training), Riyadh, KSA</div>
-                        
-                        
+                        <div class="card-subtitle">(Global Reach in Consulting & Training), Riyadh, KSA</div>                        
                         <div class="button-wrapper">
                             <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-3">Explore</a>
                         </div>
                     </div>
                 </div> <!-- end of card -->
                 <!-- end of card -->
-
-
             </div> <!-- end of col -->
         </div> <!-- end of row -->
     </div> <!-- end of container -->
@@ -233,8 +242,7 @@
                 <p>
                     Our application links: <a class="turquoise" href="http://itunes.apple.com">Appstore link</a>
                     <a class="turquoise" href="http://play.google.com">Playstore link</a>
-                </p>
-               
+                </p>               
                  <a class="btn-outline-reg mfp-close as-button" href="#screenshots">BACK</a>
             </div> <!-- end of col -->
         </div> <!-- end of row -->
@@ -252,8 +260,7 @@
                     <img class="img-fluid" src="images/injaz-school.png" alt="alternative">
                 </div> <!-- end of image-container -->
             </div> <!-- end of col -->
-            <div class="col-lg-4">
-                
+            <div class="col-lg-4">              
                 <h3>Injaz Schools, Makkah, KSA</h3>
                 <hr>
                 {{-- <h5>Core feature</h5> --}}
@@ -285,11 +292,8 @@
                     </li>
                     <li class="media">
                         <i class="fas fa-check"></i><div class="media-body">Workflows and Reporting</div>
-                    </li>
-                    
-                </ul>
-                
-               
+                    </li>                   
+                </ul>              
                  <a class="btn-outline-reg mfp-close as-button" href="#screenshots">BACK</a>
             </div> <!-- end of col -->
         </div> <!-- end of row -->
@@ -300,8 +304,42 @@
 <!-- Details Lightbox 6 -->
 <div id="details-lightbox-6" class="lightbox-basic zoom-anim-dialog mfp-hide">
     <div class="container">
-        <img class="img-fluid" src="images/alfaisel.png" alt="alternative">
-            </div> <!-- end of container -->
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <div class="image-container">
+                    <img class="img-fluid" src="images/alfaisel.png" alt="alternative">
+                </div> <!-- end of image-container -->
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                
+                <h3>Alfaisal University, Riyadh, KSA</h3>
+                <hr>
+                {{-- <h5>Core feature</h5> --}}
+                <p>
+                    Our integration solution at Alfaisal University, Riyadh (KSA) linked their systems on the below portals:
+                </p>
+                <ul class="list-unstyled li-space-lg">
+                    <li class="media">
+                        <i class="fas fa-check"></i><div class="media-body">Moodle (LMS/e-Learning)</div>
+                    </li>
+                    <li class="media">
+                        <i class="fas fa-check"></i><div class="media-body">Blackbaud Student Information System (SIS)</div>
+                    </li>
+                    <li class="media">
+                        <i class="fas fa-check"></i><div class="media-body">Oracle ERP Digital Measures</div>
+                    </li>
+                    <li class="media">
+                        <i class="fas fa-check"></i><div class="media-body">Microsoft SharePoint Portal</div>
+                    </li>
+                    <li class="media">
+                        <i class="fas fa-check"></i><div class="media-body">Our Moodle Mobile app for Al-Faisal University, Riyadh (KSA) is available for iOS and Android devices.</div>
+                    </li>                   
+                </ul>              
+                 <a class="btn-outline-reg mfp-close as-button" href="#screenshots">BACK</a>
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of container -->
 </div> <!-- end of lightbox-basic -->
 <!-- end of details lightbox 6 -->
 
@@ -311,4 +349,12 @@
         <img class="img-fluid" src="images/kfsh.png" alt="alternative">
             </div> <!-- end of container -->
 </div> <!-- end of lightbox-basic -->
-<!-- end of details lightbox 6 -->
+<!-- end of details lightbox 7 -->
+
+<!-- Details Lightbox 8 -->
+<div id="details-lightbox-8" class="lightbox-basic zoom-anim-dialog mfp-hide">
+    <div class="container">
+        <img class="img-fluid" src="images/drsulmanal.png" alt="alternative">
+            </div> <!-- end of container -->
+</div> <!-- end of lightbox-basic -->
+<!-- end of details lightbox 8 -->

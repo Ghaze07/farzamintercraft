@@ -582,7 +582,10 @@ input[type='checkbox'] {
 	animation: fadeOut 0.8s;
 }
 /* end of fade animation for image slider - magnific popup */
-
+/*----*/
+.navbar-dark .navbar-nav .nav-link.active {
+	color: black !important;
+}
 
 /*************************/
 /*     02. Preloader     */
@@ -1811,6 +1814,7 @@ a:hover.back-to-top {
 		padding-top: 0.25rem;
 		padding-bottom: 0.25rem;
 	}
+
 
 	.navbar-custom .dropdown-items-divide-hr {
 		width: 84%;
