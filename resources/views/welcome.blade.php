@@ -5,11 +5,11 @@
     @include('about')
     @include('vision')
     @include('frameworks')
-    @include('services')
-    
+    @include('services')   
     @include('projects')
     
     @include('customframeworks')
-    
-    @include('contact')
+       <div id="app">
+        <example-component />
+       </div>   
 @endsection

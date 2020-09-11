@@ -11,7 +11,7 @@
             <div class="col-lg-12">
 
                 <!-- Card -->
-                <div class="card">
+                <div class="card" style="min-height: 600px">
                     <img class="card-image" src="images/services-icon-1.svg" alt="alternative">
                     <div class="card-body">
                         <h4 class="card-title">MOODLE</h4>
@@ -24,7 +24,7 @@
                 <!-- end of card -->
 
                 <!-- Card -->
-                <div class="card">
+                <div class="card" style="min-height: 600px">
                     <img class="card-image" src="images/system.png" alt="alternative">
                     <div class="card-body">
                         <h4 class="card-title">System Integration</h4>
@@ -36,7 +36,7 @@
                 <!-- end of card -->
 
                 <!-- Card -->
-                <div class="card">
+                <div class="card" style="min-height: 600px">
                     <img class="card-image" src="images/mobil.png" alt="alternative">
                     <div class="card-body">
                         <h4 class="card-title">Mobile Apps</h4>
@@ -48,7 +48,7 @@
                 <!-- end of card -->
 
                 <!-- Card -->
-                <div class="card">
+                <div class="card" style="min-height: 450px">
                     <img class="card-image" src="images/webapp.png" alt="alternative">
                     <div class="card-body">
                         <h4 class="card-title">Web Applications</h4>
@@ -60,7 +60,7 @@
                 <!-- end of card -->
 
                 <!-- Card -->
-                <div class="card">
+                <div class="card" style="min-height: 450px">
                     <img class="card-image" src="images/services-icon-3.svg" alt="alternative">
                     <div class="card-body">
                         <h4 class="card-title">Training & Support</h4>
