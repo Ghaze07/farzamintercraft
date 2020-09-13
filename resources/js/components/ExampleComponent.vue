@@ -21,7 +21,7 @@
             </div> <!-- end of col -->
             <div class="col-lg-6">
     
-    <form @submit.prevent="submit">
+    <form @submit.prevent="submit" method="post" action="#">
         <div class="form-group">
             <label for="name">Name</label>
             <input type="text" class="form-control" name="name" id="name" v-model="fields.name" />

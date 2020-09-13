@@ -17,8 +17,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-//Route::get('/', 'PagesController@getContact');
-//Route::post('/', 'PagesController@postContact');
-
 Route::post('/submit', 'ContactFormController@submit');
+
+
+
     

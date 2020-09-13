@@ -7,9 +7,8 @@
     @include('frameworks')
     @include('services')   
     @include('projects')
+    @include('contact')
     
     @include('customframeworks')
-       <div id="app">
-        <example-component />
-       </div>   
+          
 @endsection
