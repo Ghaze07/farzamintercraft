@@ -28,13 +28,32 @@
 
     <!-- Favicon  -->
     <link rel="icon" href="images/bird.png">
+    <style>
+        
+        .imge {
+        max-width: 10%;
+        height: auto;
+        }
+
+        .logdiv {
+            position: absolute;
+            top: 25%;
+            left: 25%;
+            margin-top: -10px;
+            margin-left: -20px;
+        }
+    
+      </style>
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
  
     <!-- Preloader -->
 	<div class="spinner-wrapper"> 
+         <div class="logdiv"> 
+            <img src="images/logi.png" style="imge" width="460" height="345" alt="alternative"> 
+        </div>   
+            
         <div class="spinner">
-            <img src="images/logi.png" style="height: 550%" alt="alternative"> 
             <div class="bounce1"></div>
             <div class="bounce2"></div>
             <div class="bounce3"></div>

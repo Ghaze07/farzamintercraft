@@ -37600,6 +37600,7 @@ var render = function() {
             _c(
               "form",
               {
+                attrs: { method: "post", action: "#" },
                 on: {
                   submit: function($event) {
                     $event.preventDefault()
